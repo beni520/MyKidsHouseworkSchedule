@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to My Kids Housework Schedule
 
-You can use the [editor on GitHub](https://github.com/beni520/MyKidsHouseworkSchedule/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+In the process of children's growth, parents and families have a great influence on their children's practical ability and consciousness. For example, when the child is free, or on weekends, arrange appropriate housework for the child, such as cleaning the table, sweeping the floor, etc. Appropriate amount of housework for children can cultivate their ability of self-care and hands-on. You can record the details of the tools and contents to be prepared in the child's housework schedule, as well as the completed and unfinished housework. You can organize this information into a list to help children develop good self-care ability.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-# Header 1
-## Header 2
-### Header 3
+We will answer them for you in the first time.
 
-- Bulleted
-- List
+### Address: BeatriceArlenexSgPdE@yahoo.com
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beni520/MyKidsHouseworkSchedule/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
